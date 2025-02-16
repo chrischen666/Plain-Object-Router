@@ -4,4 +4,4 @@
 
 ## Router架構
 
-使用Vite + Routes + Route元件架構
+使用Vite + Plain Object Router架構
